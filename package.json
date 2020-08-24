@@ -16,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/fkmutua/Dark-room/issues"
     },
-    "homepage": "https://github.com/fkmutua/Dark-room#readme"
+    "homepage": "https://github.com/fkmutua/Dark-room#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
 }
